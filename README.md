@@ -14,4 +14,4 @@ The files included are:
 The static website is access using the unique CloudFront endpoint:
 [https://db8kir7t0dnsp.cloudfront.net/](website-url)
 
-![./screenshots/static website url.png][./screenshots/static website url.png]
+![Screenshot](./screenshots/static-website-url.png)
